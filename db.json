@@ -1,0 +1,60 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "genero": "Novela",
+      "anio": 1963,
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "titulo": "El Aleph",
+      "autor": "Jorge Luis Borges",
+      "genero": "Cuento",
+      "anio": 1949,
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "titulo": "Ficciones",
+      "autor": "Jorge Luis Borges",
+      "genero": "Cuento",
+      "anio": 1944,
+      "disponible": false
+    },
+    {
+      "id": 4,
+      "titulo": "Sobre héroes y tumbas",
+      "autor": "Ernesto Sabato",
+      "genero": "Novela",
+      "anio": 1961,
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "titulo": "Martín Fierro",
+      "autor": "José Hernández",
+      "genero": "Poesía",
+      "anio": 1872,
+      "disponible": false
+    },
+    {
+      "id": 6,
+      "titulo": "La ciudad y los perros",
+      "autor": "Mario Vargas Llosa",
+      "genero": "Novela",
+      "anio": 1963,
+      "disponible": false
+    },
+    {
+      "titulo": "ads",
+      "autor": "ads",
+      "genero": "Novela",
+      "anio": 1441,
+      "disponible": true,
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <linearGradient id="favBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="goldFav" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo redondeado con alto contraste para pestañas -->
+  <rect width="64" height="64" rx="14" fill="url(#favBg)" />
+
+  <!-- Páginas del libro abiertas -->
+  <path d="M32 47 C24 41 13 41 10 43 L10 23 C15 21 24 21 32 27 Z" fill="#FFFFFF" />
+  <path d="M32 47 C40 41 51 41 54 43 L54 23 C49 21 40 21 32 27 Z" fill="#E2E8F0" />
+
+  <!-- Separador / Cinta de lectura -->
+  <path d="M30 16 L34 16 L34 34 L32 31 L30 34 Z" fill="url(#goldFav)" />
+
+  <!-- Estrella / Detalle de comunidad -->
+  <circle cx="32" cy="11" r="2" fill="url(#goldFav)" />
+</svg>
